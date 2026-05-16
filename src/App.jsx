@@ -1,3 +1,4 @@
+import "./missing-file.css";
 import "./App.css";
 
 function App() {
